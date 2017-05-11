@@ -1,4 +1,9 @@
-﻿using Unbroken.LaunchBox.Plugins;
+﻿// Big Box Play and Kill Plugin for Launchbox
+// Adds a context menu option to each game allowing the user to kill Big Box after starting the game.
+// Author: Don Freiday
+// 05/11/2017
+
+using Unbroken.LaunchBox.Plugins;
 using Unbroken.LaunchBox.Plugins.Data;
 
 namespace BigBox_Play_and_Kill
